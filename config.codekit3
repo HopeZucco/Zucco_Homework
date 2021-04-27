@@ -9,6 +9,25 @@
   ],
   "creatorBuild" : "34127",
   "files" : {
+    "\/README.md" : {
+      "cB" : 0,
+      "cS" : 0,
+      "eF" : 1,
+      "eL" : 1,
+      "ema" : 1,
+      "eSQ" : 1,
+      "ft" : 4096,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/README.html",
+      "oF" : 0,
+      "oFM" : 0,
+      "oS" : 0,
+      "pHT" : 0,
+      "pME" : 1,
+      "rFN" : 0,
+      "uCM" : 0
+    },
     "\/ZuccoH_Coffee_Website\/deploy\/css\/styles.css" : {
       "aP" : 1,
       "bl" : 0,
@@ -699,7 +718,7 @@
       "rFN" : 0,
       "uCM" : 0
     },
-    "\/ZuccoH_Mobile_Layout\/deploy\/css\/styles.css" : {
+    "\/ZuccoH_Mobile_Tablet_Layout\/deploy\/css\/styles.css" : {
       "aP" : 1,
       "bl" : 0,
       "ci" : 0,
@@ -707,16 +726,16 @@
       "ft" : 16,
       "ma" : 0,
       "oA" : 0,
-      "oAP" : "\/ZuccoH_Mobile_Layout\/deploy\/css\/styles-min.css",
+      "oAP" : "\/ZuccoH_Mobile_Tablet_Layout\/deploy\/css\/styles-min.css",
       "oF" : 0,
       "pg" : 0
     },
-    "\/ZuccoH_Mobile_Layout\/deploy\/img\/header\/logo.jpg" : {
+    "\/ZuccoH_Mobile_Tablet_Layout\/deploy\/img\/header\/logo.jpg" : {
       "ft" : 16384,
       "iS" : 12384,
       "jF" : 0,
       "oA" : 0,
-      "oAP" : "\/ZuccoH_Mobile_Layout\/deploy\/img\/header\/logo.jpg",
+      "oAP" : "\/ZuccoH_Mobile_Tablet_Layout\/deploy\/img\/header\/logo.jpg",
       "oF" : 0,
       "oIPL" : 0,
       "opt" : 0,
@@ -724,12 +743,12 @@
       "q" : 100,
       "rq" : 75
     },
-    "\/ZuccoH_Mobile_Layout\/deploy\/img\/hero-2\/hero-2-1.jpg" : {
+    "\/ZuccoH_Mobile_Tablet_Layout\/deploy\/img\/hero-2\/hero-2-1.jpg" : {
       "ft" : 16384,
       "iS" : 97866,
       "jF" : 0,
       "oA" : 0,
-      "oAP" : "\/ZuccoH_Mobile_Layout\/deploy\/img\/hero-2\/hero-2-1.jpg",
+      "oAP" : "\/ZuccoH_Mobile_Tablet_Layout\/deploy\/img\/hero-2\/hero-2-1.jpg",
       "oF" : 0,
       "oIPL" : 0,
       "opt" : 0,
@@ -737,12 +756,12 @@
       "q" : 100,
       "rq" : 75
     },
-    "\/ZuccoH_Mobile_Layout\/deploy\/img\/hero-2\/hero-2-2.jpg" : {
+    "\/ZuccoH_Mobile_Tablet_Layout\/deploy\/img\/hero-2\/hero-2-2.jpg" : {
       "ft" : 16384,
       "iS" : 50432,
       "jF" : 0,
       "oA" : 0,
-      "oAP" : "\/ZuccoH_Mobile_Layout\/deploy\/img\/hero-2\/hero-2-2.jpg",
+      "oAP" : "\/ZuccoH_Mobile_Tablet_Layout\/deploy\/img\/hero-2\/hero-2-2.jpg",
       "oF" : 0,
       "oIPL" : 0,
       "opt" : 0,
@@ -750,12 +769,12 @@
       "q" : 100,
       "rq" : 75
     },
-    "\/ZuccoH_Mobile_Layout\/deploy\/img\/hero-2\/hero-2-3.jpg" : {
+    "\/ZuccoH_Mobile_Tablet_Layout\/deploy\/img\/hero-2\/hero-2-3.jpg" : {
       "ft" : 16384,
       "iS" : 62129,
       "jF" : 0,
       "oA" : 0,
-      "oAP" : "\/ZuccoH_Mobile_Layout\/deploy\/img\/hero-2\/hero-2-3.jpg",
+      "oAP" : "\/ZuccoH_Mobile_Tablet_Layout\/deploy\/img\/hero-2\/hero-2-3.jpg",
       "oF" : 0,
       "oIPL" : 0,
       "opt" : 0,
@@ -763,12 +782,12 @@
       "q" : 100,
       "rq" : 75
     },
-    "\/ZuccoH_Mobile_Layout\/deploy\/img\/hero\/hero.jpg" : {
+    "\/ZuccoH_Mobile_Tablet_Layout\/deploy\/img\/hero\/hero.jpg" : {
       "ft" : 16384,
       "iS" : 502474,
       "jF" : 0,
       "oA" : 0,
-      "oAP" : "\/ZuccoH_Mobile_Layout\/deploy\/img\/hero\/hero.jpg",
+      "oAP" : "\/ZuccoH_Mobile_Tablet_Layout\/deploy\/img\/hero\/hero.jpg",
       "oF" : 0,
       "oIPL" : 0,
       "opt" : 0,
@@ -776,12 +795,12 @@
       "q" : 100,
       "rq" : 75
     },
-    "\/ZuccoH_Mobile_Layout\/deploy\/img\/new\/gallery-1.jpg" : {
+    "\/ZuccoH_Mobile_Tablet_Layout\/deploy\/img\/new\/gallery-1.jpg" : {
       "ft" : 16384,
       "iS" : 58858,
       "jF" : 0,
       "oA" : 0,
-      "oAP" : "\/ZuccoH_Mobile_Layout\/deploy\/img\/new\/gallery-1.jpg",
+      "oAP" : "\/ZuccoH_Mobile_Tablet_Layout\/deploy\/img\/new\/gallery-1.jpg",
       "oF" : 0,
       "oIPL" : 0,
       "opt" : 0,
@@ -789,12 +808,12 @@
       "q" : 100,
       "rq" : 75
     },
-    "\/ZuccoH_Mobile_Layout\/deploy\/img\/new\/gallery-2.jpg" : {
+    "\/ZuccoH_Mobile_Tablet_Layout\/deploy\/img\/new\/gallery-2.jpg" : {
       "ft" : 16384,
       "iS" : 44480,
       "jF" : 0,
       "oA" : 0,
-      "oAP" : "\/ZuccoH_Mobile_Layout\/deploy\/img\/new\/gallery-2.jpg",
+      "oAP" : "\/ZuccoH_Mobile_Tablet_Layout\/deploy\/img\/new\/gallery-2.jpg",
       "oF" : 0,
       "oIPL" : 0,
       "opt" : 0,
@@ -802,12 +821,12 @@
       "q" : 100,
       "rq" : 75
     },
-    "\/ZuccoH_Mobile_Layout\/deploy\/img\/new\/gallery-3.jpg" : {
+    "\/ZuccoH_Mobile_Tablet_Layout\/deploy\/img\/new\/gallery-3.jpg" : {
       "ft" : 16384,
       "iS" : 87851,
       "jF" : 0,
       "oA" : 0,
-      "oAP" : "\/ZuccoH_Mobile_Layout\/deploy\/img\/new\/gallery-3.jpg",
+      "oAP" : "\/ZuccoH_Mobile_Tablet_Layout\/deploy\/img\/new\/gallery-3.jpg",
       "oF" : 0,
       "oIPL" : 0,
       "opt" : 0,
@@ -815,12 +834,12 @@
       "q" : 100,
       "rq" : 75
     },
-    "\/ZuccoH_Mobile_Layout\/deploy\/img\/new\/gallery-4.jpg" : {
+    "\/ZuccoH_Mobile_Tablet_Layout\/deploy\/img\/new\/gallery-4.jpg" : {
       "ft" : 16384,
       "iS" : 48356,
       "jF" : 0,
       "oA" : 0,
-      "oAP" : "\/ZuccoH_Mobile_Layout\/deploy\/img\/new\/gallery-4.jpg",
+      "oAP" : "\/ZuccoH_Mobile_Tablet_Layout\/deploy\/img\/new\/gallery-4.jpg",
       "oF" : 0,
       "oIPL" : 0,
       "opt" : 0,
@@ -828,12 +847,12 @@
       "q" : 100,
       "rq" : 75
     },
-    "\/ZuccoH_Mobile_Layout\/deploy\/img\/new\/gallery-5.jpg" : {
+    "\/ZuccoH_Mobile_Tablet_Layout\/deploy\/img\/new\/gallery-5.jpg" : {
       "ft" : 16384,
       "iS" : 41470,
       "jF" : 0,
       "oA" : 0,
-      "oAP" : "\/ZuccoH_Mobile_Layout\/deploy\/img\/new\/gallery-5.jpg",
+      "oAP" : "\/ZuccoH_Mobile_Tablet_Layout\/deploy\/img\/new\/gallery-5.jpg",
       "oF" : 0,
       "oIPL" : 0,
       "opt" : 0,
@@ -841,12 +860,12 @@
       "q" : 100,
       "rq" : 75
     },
-    "\/ZuccoH_Mobile_Layout\/deploy\/img\/planning\/planning-left.jpg" : {
+    "\/ZuccoH_Mobile_Tablet_Layout\/deploy\/img\/planning\/planning-left.jpg" : {
       "ft" : 16384,
       "iS" : 6214,
       "jF" : 0,
       "oA" : 0,
-      "oAP" : "\/ZuccoH_Mobile_Layout\/deploy\/img\/planning\/planning-left.jpg",
+      "oAP" : "\/ZuccoH_Mobile_Tablet_Layout\/deploy\/img\/planning\/planning-left.jpg",
       "oF" : 0,
       "oIPL" : 0,
       "opt" : 0,
@@ -854,11 +873,11 @@
       "q" : 100,
       "rq" : 75
     },
-    "\/ZuccoH_Mobile_Layout\/deploy\/img\/planning\/planning-left.png" : {
+    "\/ZuccoH_Mobile_Tablet_Layout\/deploy\/img\/planning\/planning-left.png" : {
       "ft" : 32768,
       "iS" : 20481,
       "oA" : 0,
-      "oAP" : "\/ZuccoH_Mobile_Layout\/deploy\/img\/planning\/planning-left.png",
+      "oAP" : "\/ZuccoH_Mobile_Tablet_Layout\/deploy\/img\/planning\/planning-left.png",
       "oF" : 0,
       "oIPL" : 0,
       "opt" : 0,
@@ -867,12 +886,12 @@
       "q" : 100,
       "rq" : 75
     },
-    "\/ZuccoH_Mobile_Layout\/deploy\/img\/planning\/planning-right.jpg" : {
+    "\/ZuccoH_Mobile_Tablet_Layout\/deploy\/img\/planning\/planning-right.jpg" : {
       "ft" : 16384,
       "iS" : 10265,
       "jF" : 0,
       "oA" : 0,
-      "oAP" : "\/ZuccoH_Mobile_Layout\/deploy\/img\/planning\/planning-right.jpg",
+      "oAP" : "\/ZuccoH_Mobile_Tablet_Layout\/deploy\/img\/planning\/planning-right.jpg",
       "oF" : 0,
       "oIPL" : 0,
       "opt" : 0,
@@ -880,11 +899,11 @@
       "q" : 100,
       "rq" : 75
     },
-    "\/ZuccoH_Mobile_Layout\/deploy\/img\/planning\/planning-right.png" : {
+    "\/ZuccoH_Mobile_Tablet_Layout\/deploy\/img\/planning\/planning-right.png" : {
       "ft" : 32768,
       "iS" : 24324,
       "oA" : 0,
-      "oAP" : "\/ZuccoH_Mobile_Layout\/deploy\/img\/planning\/planning-right.png",
+      "oAP" : "\/ZuccoH_Mobile_Tablet_Layout\/deploy\/img\/planning\/planning-right.png",
       "oF" : 0,
       "oIPL" : 0,
       "opt" : 0,
@@ -893,122 +912,122 @@
       "q" : 100,
       "rq" : 75
     },
-    "\/ZuccoH_Mobile_Layout\/deploy\/index.html" : {
+    "\/ZuccoH_Mobile_Tablet_Layout\/deploy\/index.html" : {
       "cB" : 0,
       "ft" : 8192,
       "hM" : 0,
       "oA" : 0,
-      "oAP" : "\/ZuccoH_Mobile_Layout\/deploy\/index.html",
+      "oAP" : "\/ZuccoH_Mobile_Tablet_Layout\/deploy\/index.html",
       "oF" : 0
     },
-    "\/ZuccoH_Mobile_Layout\/dev\/content\/hero-2.kit" : {
+    "\/ZuccoH_Mobile_Tablet_Layout\/dev\/content\/hero-2.kit" : {
       "cB" : 0,
       "ft" : 2048,
       "hM" : 0,
-      "oA" : 1,
-      "oAP" : "\/ZuccoH_Mobile_Layout\/dev\/content\/hero-2.html",
-      "oF" : 0
+      "oA" : 0,
+      "oAP" : "\/ZuccoH_Mobile_Tablet_Layout\/deploy\/hero-2.html",
+      "oF" : 2
     },
-    "\/ZuccoH_Mobile_Layout\/dev\/content\/hero.kit" : {
+    "\/ZuccoH_Mobile_Tablet_Layout\/dev\/content\/hero.kit" : {
       "cB" : 0,
       "ft" : 2048,
       "hM" : 0,
-      "oA" : 1,
-      "oAP" : "\/ZuccoH_Mobile_Layout\/dev\/content\/hero.html",
-      "oF" : 0
+      "oA" : 0,
+      "oAP" : "\/ZuccoH_Mobile_Tablet_Layout\/deploy\/hero.html",
+      "oF" : 2
     },
-    "\/ZuccoH_Mobile_Layout\/dev\/content\/new.kit" : {
+    "\/ZuccoH_Mobile_Tablet_Layout\/dev\/content\/new.kit" : {
       "cB" : 0,
       "ft" : 2048,
       "hM" : 0,
-      "oA" : 1,
-      "oAP" : "\/ZuccoH_Mobile_Layout\/dev\/content\/new.html",
-      "oF" : 0
+      "oA" : 0,
+      "oAP" : "\/ZuccoH_Mobile_Tablet_Layout\/deploy\/new.html",
+      "oF" : 2
     },
-    "\/ZuccoH_Mobile_Layout\/dev\/content\/planning.kit" : {
+    "\/ZuccoH_Mobile_Tablet_Layout\/dev\/content\/planning.kit" : {
       "cB" : 0,
       "ft" : 2048,
       "hM" : 0,
-      "oA" : 1,
-      "oAP" : "\/ZuccoH_Mobile_Layout\/dev\/content\/planning.html",
-      "oF" : 0
+      "oA" : 0,
+      "oAP" : "\/ZuccoH_Mobile_Tablet_Layout\/deploy\/planning.html",
+      "oF" : 3
     },
-    "\/ZuccoH_Mobile_Layout\/dev\/content\/search.kit" : {
+    "\/ZuccoH_Mobile_Tablet_Layout\/dev\/content\/search.kit" : {
       "cB" : 0,
       "ft" : 2048,
       "hM" : 0,
-      "oA" : 1,
-      "oAP" : "\/ZuccoH_Mobile_Layout\/dev\/content\/search.html",
-      "oF" : 0
+      "oA" : 0,
+      "oAP" : "\/ZuccoH_Mobile_Tablet_Layout\/deploy\/search.html",
+      "oF" : 2
     },
-    "\/ZuccoH_Mobile_Layout\/dev\/content\/workspace.code-workspace" : {
+    "\/ZuccoH_Mobile_Tablet_Layout\/dev\/content\/workspace.code-workspace" : {
       "cB" : 0,
       "ft" : 8192,
       "hM" : 0,
       "oA" : 0,
-      "oAP" : "\/ZuccoH_Mobile_Layout\/dev\/content\/workspace.code-workspace",
+      "oAP" : "\/ZuccoH_Mobile_Tablet_Layout\/dev\/content\/workspace.code-workspace",
       "oF" : 0
     },
-    "\/ZuccoH_Mobile_Layout\/dev\/global\/footer.kit" : {
+    "\/ZuccoH_Mobile_Tablet_Layout\/dev\/global\/footer.kit" : {
       "cB" : 0,
       "ft" : 2048,
       "hM" : 0,
-      "oA" : 1,
-      "oAP" : "\/ZuccoH_Mobile_Layout\/dev\/global\/footer.html",
-      "oF" : 0
+      "oA" : 0,
+      "oAP" : "\/ZuccoH_Mobile_Tablet_Layout\/deploy\/footer.html",
+      "oF" : 3
     },
-    "\/ZuccoH_Mobile_Layout\/dev\/global\/head.kit" : {
+    "\/ZuccoH_Mobile_Tablet_Layout\/dev\/global\/head.kit" : {
       "cB" : 0,
       "ft" : 2048,
       "hM" : 0,
-      "oA" : 1,
-      "oAP" : "\/ZuccoH_Mobile_Layout\/dev\/global\/head.html",
-      "oF" : 0
+      "oA" : 0,
+      "oAP" : "\/ZuccoH_Mobile_Tablet_Layout\/deploy\/head.html",
+      "oF" : 3
     },
-    "\/ZuccoH_Mobile_Layout\/dev\/global\/header.kit" : {
+    "\/ZuccoH_Mobile_Tablet_Layout\/dev\/global\/header.kit" : {
       "cB" : 0,
       "ft" : 2048,
       "hM" : 0,
-      "oA" : 1,
-      "oAP" : "\/ZuccoH_Mobile_Layout\/dev\/global\/header.html",
-      "oF" : 0
+      "oA" : 0,
+      "oAP" : "\/ZuccoH_Mobile_Tablet_Layout\/deploy\/header.html",
+      "oF" : 3
     },
-    "\/ZuccoH_Mobile_Layout\/dev\/global\/scripts.kit" : {
+    "\/ZuccoH_Mobile_Tablet_Layout\/dev\/global\/scripts.kit" : {
       "cB" : 0,
       "ft" : 2048,
       "hM" : 0,
-      "oA" : 1,
-      "oAP" : "\/ZuccoH_Mobile_Layout\/dev\/global\/scripts.html",
-      "oF" : 0
+      "oA" : 0,
+      "oAP" : "\/ZuccoH_Mobile_Tablet_Layout\/deploy\/scripts.html",
+      "oF" : 3
     },
-    "\/ZuccoH_Mobile_Layout\/dev\/index.html" : {
+    "\/ZuccoH_Mobile_Tablet_Layout\/dev\/index.html" : {
       "cB" : 0,
       "ft" : 8192,
       "hM" : 0,
       "oA" : 0,
-      "oAP" : "\/ZuccoH_Mobile_Layout\/dev\/index.html",
+      "oAP" : "\/ZuccoH_Mobile_Tablet_Layout\/dev\/index.html",
       "oF" : 0
     },
-    "\/ZuccoH_Mobile_Layout\/dev\/index.kit" : {
+    "\/ZuccoH_Mobile_Tablet_Layout\/dev\/index.kit" : {
       "cB" : 0,
       "ft" : 2048,
       "hM" : 0,
       "oA" : 0,
-      "oAP" : "\/ZuccoH_Mobile_Layout\/dev\/index.html",
-      "oF" : 0
+      "oAP" : "\/ZuccoH_Mobile_Tablet_Layout\/deploy\/index.html",
+      "oF" : 2
     },
-    "\/ZuccoH_Mobile_Layout\/dev\/js\/scripts.js" : {
+    "\/ZuccoH_Mobile_Tablet_Layout\/dev\/js\/scripts.js" : {
       "bF" : 0,
       "ft" : 64,
       "ma" : 0,
       "mi" : 1,
       "oA" : 0,
-      "oAP" : "\/ZuccoH_Mobile_Layout\/dev\/js\/scripts-min.js",
+      "oAP" : "\/ZuccoH_Mobile_Tablet_Layout\/dev\/js\/scripts-min.js",
       "oF" : 0,
       "sC" : 3,
       "tS" : 0
     },
-    "\/ZuccoH_Mobile_Layout\/dev\/scss\/base\/_base.scss" : {
+    "\/ZuccoH_Mobile_Tablet_Layout\/dev\/scss\/base\/_base.scss" : {
       "aP" : 0,
       "bl" : 0,
       "dP" : 10,
@@ -1016,13 +1035,13 @@
       "ft" : 4,
       "ma" : 0,
       "oA" : 1,
-      "oAP" : "\/ZuccoH_Mobile_Layout\/dev\/scss\/base\/_base.css",
+      "oAP" : "\/ZuccoH_Mobile_Tablet_Layout\/dev\/scss\/base\/_base.css",
       "oF" : 0,
       "oS" : 0,
       "pg" : 0,
       "sct" : 0
     },
-    "\/ZuccoH_Mobile_Layout\/dev\/scss\/base\/_normalize.scss" : {
+    "\/ZuccoH_Mobile_Tablet_Layout\/dev\/scss\/base\/_normalize.scss" : {
       "aP" : 0,
       "bl" : 0,
       "dP" : 10,
@@ -1030,13 +1049,13 @@
       "ft" : 4,
       "ma" : 0,
       "oA" : 1,
-      "oAP" : "\/ZuccoH_Mobile_Layout\/dev\/scss\/base\/_normalize.css",
+      "oAP" : "\/ZuccoH_Mobile_Tablet_Layout\/dev\/scss\/base\/_normalize.css",
       "oF" : 0,
       "oS" : 0,
       "pg" : 0,
       "sct" : 0
     },
-    "\/ZuccoH_Mobile_Layout\/dev\/scss\/base\/_typography.scss" : {
+    "\/ZuccoH_Mobile_Tablet_Layout\/dev\/scss\/base\/_typography.scss" : {
       "aP" : 0,
       "bl" : 0,
       "dP" : 10,
@@ -1044,13 +1063,13 @@
       "ft" : 4,
       "ma" : 0,
       "oA" : 1,
-      "oAP" : "\/ZuccoH_Mobile_Layout\/dev\/scss\/base\/_typography.css",
+      "oAP" : "\/ZuccoH_Mobile_Tablet_Layout\/dev\/scss\/base\/_typography.css",
       "oF" : 0,
       "oS" : 0,
       "pg" : 0,
       "sct" : 0
     },
-    "\/ZuccoH_Mobile_Layout\/dev\/scss\/components\/_buttons.scss" : {
+    "\/ZuccoH_Mobile_Tablet_Layout\/dev\/scss\/components\/_buttons.scss" : {
       "aP" : 0,
       "bl" : 0,
       "dP" : 10,
@@ -1058,13 +1077,13 @@
       "ft" : 4,
       "ma" : 0,
       "oA" : 1,
-      "oAP" : "\/ZuccoH_Mobile_Layout\/dev\/scss\/components\/_buttons.css",
+      "oAP" : "\/ZuccoH_Mobile_Tablet_Layout\/dev\/scss\/components\/_buttons.css",
       "oF" : 0,
       "oS" : 0,
       "pg" : 0,
       "sct" : 0
     },
-    "\/ZuccoH_Mobile_Layout\/dev\/scss\/components\/_forms.scss" : {
+    "\/ZuccoH_Mobile_Tablet_Layout\/dev\/scss\/components\/_forms.scss" : {
       "aP" : 0,
       "bl" : 0,
       "dP" : 10,
@@ -1072,13 +1091,13 @@
       "ft" : 4,
       "ma" : 0,
       "oA" : 1,
-      "oAP" : "\/ZuccoH_Mobile_Layout\/dev\/scss\/components\/_forms.css",
+      "oAP" : "\/ZuccoH_Mobile_Tablet_Layout\/dev\/scss\/components\/_forms.css",
       "oF" : 0,
       "oS" : 0,
       "pg" : 0,
       "sct" : 0
     },
-    "\/ZuccoH_Mobile_Layout\/dev\/scss\/components\/_navigation.scss" : {
+    "\/ZuccoH_Mobile_Tablet_Layout\/dev\/scss\/components\/_navigation.scss" : {
       "aP" : 0,
       "bl" : 0,
       "dP" : 10,
@@ -1086,13 +1105,13 @@
       "ft" : 4,
       "ma" : 0,
       "oA" : 1,
-      "oAP" : "\/ZuccoH_Mobile_Layout\/dev\/scss\/components\/_navigation.css",
+      "oAP" : "\/ZuccoH_Mobile_Tablet_Layout\/dev\/scss\/components\/_navigation.css",
       "oF" : 0,
       "oS" : 0,
       "pg" : 0,
       "sct" : 0
     },
-    "\/ZuccoH_Mobile_Layout\/dev\/scss\/helpers\/_mixins.scss" : {
+    "\/ZuccoH_Mobile_Tablet_Layout\/dev\/scss\/helpers\/_mixins.scss" : {
       "aP" : 0,
       "bl" : 0,
       "dP" : 10,
@@ -1100,13 +1119,13 @@
       "ft" : 4,
       "ma" : 0,
       "oA" : 1,
-      "oAP" : "\/ZuccoH_Mobile_Layout\/dev\/scss\/helpers\/_mixins.css",
+      "oAP" : "\/ZuccoH_Mobile_Tablet_Layout\/dev\/scss\/helpers\/_mixins.css",
       "oF" : 0,
       "oS" : 0,
       "pg" : 0,
       "sct" : 0
     },
-    "\/ZuccoH_Mobile_Layout\/dev\/scss\/helpers\/_variables.scss" : {
+    "\/ZuccoH_Mobile_Tablet_Layout\/dev\/scss\/helpers\/_variables.scss" : {
       "aP" : 0,
       "bl" : 0,
       "dP" : 10,
@@ -1114,13 +1133,13 @@
       "ft" : 4,
       "ma" : 0,
       "oA" : 1,
-      "oAP" : "\/ZuccoH_Mobile_Layout\/dev\/scss\/helpers\/_variables.css",
+      "oAP" : "\/ZuccoH_Mobile_Tablet_Layout\/dev\/scss\/helpers\/_variables.css",
       "oF" : 0,
       "oS" : 0,
       "pg" : 0,
       "sct" : 0
     },
-    "\/ZuccoH_Mobile_Layout\/dev\/scss\/layout\/_footer.scss" : {
+    "\/ZuccoH_Mobile_Tablet_Layout\/dev\/scss\/layout\/_footer.scss" : {
       "aP" : 0,
       "bl" : 0,
       "dP" : 10,
@@ -1128,13 +1147,13 @@
       "ft" : 4,
       "ma" : 0,
       "oA" : 1,
-      "oAP" : "\/ZuccoH_Mobile_Layout\/dev\/scss\/layout\/_footer.css",
+      "oAP" : "\/ZuccoH_Mobile_Tablet_Layout\/dev\/scss\/layout\/_footer.css",
       "oF" : 0,
       "oS" : 0,
       "pg" : 0,
       "sct" : 0
     },
-    "\/ZuccoH_Mobile_Layout\/dev\/scss\/layout\/_header.scss" : {
+    "\/ZuccoH_Mobile_Tablet_Layout\/dev\/scss\/layout\/_header.scss" : {
       "aP" : 0,
       "bl" : 0,
       "dP" : 10,
@@ -1142,69 +1161,13 @@
       "ft" : 4,
       "ma" : 0,
       "oA" : 1,
-      "oAP" : "\/ZuccoH_Mobile_Layout\/dev\/scss\/layout\/_header.css",
+      "oAP" : "\/ZuccoH_Mobile_Tablet_Layout\/dev\/scss\/layout\/_header.css",
       "oF" : 0,
       "oS" : 0,
       "pg" : 0,
       "sct" : 0
     },
-    "\/ZuccoH_Mobile_Layout\/dev\/scss\/sections\/_hero-2.scss" : {
-      "aP" : 0,
-      "bl" : 0,
-      "dP" : 10,
-      "ec" : 1,
-      "ft" : 4,
-      "ma" : 0,
-      "oA" : 1,
-      "oAP" : "\/ZuccoH_Mobile_Layout\/dev\/scss\/sections\/_hero-2.css",
-      "oF" : 0,
-      "oS" : 0,
-      "pg" : 0,
-      "sct" : 0
-    },
-    "\/ZuccoH_Mobile_Layout\/dev\/scss\/sections\/_hero.scss" : {
-      "aP" : 0,
-      "bl" : 0,
-      "dP" : 10,
-      "ec" : 1,
-      "ft" : 4,
-      "ma" : 0,
-      "oA" : 1,
-      "oAP" : "\/ZuccoH_Mobile_Layout\/dev\/scss\/sections\/_hero.css",
-      "oF" : 0,
-      "oS" : 0,
-      "pg" : 0,
-      "sct" : 0
-    },
-    "\/ZuccoH_Mobile_Layout\/dev\/scss\/sections\/_new.scss" : {
-      "aP" : 0,
-      "bl" : 0,
-      "dP" : 10,
-      "ec" : 1,
-      "ft" : 4,
-      "ma" : 0,
-      "oA" : 1,
-      "oAP" : "\/ZuccoH_Mobile_Layout\/dev\/scss\/sections\/_new.css",
-      "oF" : 0,
-      "oS" : 0,
-      "pg" : 0,
-      "sct" : 0
-    },
-    "\/ZuccoH_Mobile_Layout\/dev\/scss\/sections\/_planning.scss" : {
-      "aP" : 0,
-      "bl" : 0,
-      "dP" : 10,
-      "ec" : 1,
-      "ft" : 4,
-      "ma" : 0,
-      "oA" : 1,
-      "oAP" : "\/ZuccoH_Mobile_Layout\/dev\/scss\/sections\/_planning.css",
-      "oF" : 0,
-      "oS" : 0,
-      "pg" : 0,
-      "sct" : 0
-    },
-    "\/ZuccoH_Mobile_Layout\/dev\/scss\/sections\/search.scss" : {
+    "\/ZuccoH_Mobile_Tablet_Layout\/dev\/scss\/sections\/_hero-2.scss" : {
       "aP" : 0,
       "bl" : 0,
       "dP" : 10,
@@ -1212,13 +1175,13 @@
       "ft" : 4,
       "ma" : 0,
       "oA" : 0,
-      "oAP" : "\/ZuccoH_Mobile_Layout\/dev\/scss\/sections\/search.css",
-      "oF" : 0,
+      "oAP" : "\/ZuccoH_Mobile_Tablet_Layout\/deploy\/_hero-2.css",
+      "oF" : 3,
       "oS" : 0,
       "pg" : 0,
       "sct" : 0
     },
-    "\/ZuccoH_Mobile_Layout\/dev\/scss\/styles.scss" : {
+    "\/ZuccoH_Mobile_Tablet_Layout\/dev\/scss\/sections\/_hero.scss" : {
       "aP" : 0,
       "bl" : 0,
       "dP" : 10,
@@ -1226,13 +1189,69 @@
       "ft" : 4,
       "ma" : 0,
       "oA" : 0,
-      "oAP" : "\/ZuccoH_Mobile_Layout\/dev\/scss\/styles.css",
+      "oAP" : "\/ZuccoH_Mobile_Tablet_Layout\/dev\/scss\/sections\/_hero.css",
+      "oF" : 1,
+      "oS" : 0,
+      "pg" : 0,
+      "sct" : 0
+    },
+    "\/ZuccoH_Mobile_Tablet_Layout\/dev\/scss\/sections\/_new.scss" : {
+      "aP" : 0,
+      "bl" : 0,
+      "dP" : 10,
+      "ec" : 1,
+      "ft" : 4,
+      "ma" : 0,
+      "oA" : 0,
+      "oAP" : "\/ZuccoH_Mobile_Tablet_Layout\/deploy\/_new.css",
+      "oF" : 3,
+      "oS" : 0,
+      "pg" : 0,
+      "sct" : 0
+    },
+    "\/ZuccoH_Mobile_Tablet_Layout\/dev\/scss\/sections\/_planning.scss" : {
+      "aP" : 0,
+      "bl" : 0,
+      "dP" : 10,
+      "ec" : 1,
+      "ft" : 4,
+      "ma" : 0,
+      "oA" : 0,
+      "oAP" : "\/ZuccoH_Mobile_Tablet_Layout\/deploy\/_planning.css",
+      "oF" : 3,
+      "oS" : 0,
+      "pg" : 0,
+      "sct" : 0
+    },
+    "\/ZuccoH_Mobile_Tablet_Layout\/dev\/scss\/sections\/search.scss" : {
+      "aP" : 0,
+      "bl" : 0,
+      "dP" : 10,
+      "ec" : 1,
+      "ft" : 4,
+      "ma" : 0,
+      "oA" : 0,
+      "oAP" : "\/ZuccoH_Mobile_Tablet_Layout\/dev\/scss\/sections\/search.css",
       "oF" : 0,
       "oS" : 0,
       "pg" : 0,
       "sct" : 0
     },
-    "\/ZuccoH_Mobile_Layout\/README.md" : {
+    "\/ZuccoH_Mobile_Tablet_Layout\/dev\/scss\/styles.scss" : {
+      "aP" : 0,
+      "bl" : 0,
+      "dP" : 10,
+      "ec" : 1,
+      "ft" : 4,
+      "ma" : 0,
+      "oA" : 0,
+      "oAP" : "\/ZuccoH_Mobile_Tablet_Layout\/deploy\/styles.css",
+      "oF" : 2,
+      "oS" : 0,
+      "pg" : 0,
+      "sct" : 0
+    },
+    "\/ZuccoH_Mobile_Tablet_Layout\/README.md" : {
       "cB" : 0,
       "cS" : 0,
       "eF" : 1,
@@ -1242,7 +1261,7 @@
       "ft" : 4096,
       "hM" : 0,
       "oA" : 0,
-      "oAP" : "\/ZuccoH_Mobile_Layout\/README.html",
+      "oAP" : "\/ZuccoH_Mobile_Tablet_Layout\/README.html",
       "oF" : 0,
       "oFM" : 0,
       "oS" : 0,
