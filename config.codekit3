@@ -924,31 +924,31 @@
       "cB" : 0,
       "ft" : 2048,
       "hM" : 0,
-      "oA" : 0,
+      "oA" : 1,
       "oAP" : "\/ZuccoH_Mobile_Tablet_Layout\/deploy\/hero-2.html",
-      "oF" : 2
+      "oF" : 3
     },
     "\/ZuccoH_Mobile_Tablet_Layout\/dev\/content\/hero.kit" : {
       "cB" : 0,
       "ft" : 2048,
       "hM" : 0,
-      "oA" : 0,
+      "oA" : 1,
       "oAP" : "\/ZuccoH_Mobile_Tablet_Layout\/deploy\/hero.html",
-      "oF" : 2
+      "oF" : 3
     },
     "\/ZuccoH_Mobile_Tablet_Layout\/dev\/content\/new.kit" : {
       "cB" : 0,
       "ft" : 2048,
       "hM" : 0,
-      "oA" : 0,
+      "oA" : 1,
       "oAP" : "\/ZuccoH_Mobile_Tablet_Layout\/deploy\/new.html",
-      "oF" : 2
+      "oF" : 3
     },
     "\/ZuccoH_Mobile_Tablet_Layout\/dev\/content\/planning.kit" : {
       "cB" : 0,
       "ft" : 2048,
       "hM" : 0,
-      "oA" : 0,
+      "oA" : 1,
       "oAP" : "\/ZuccoH_Mobile_Tablet_Layout\/deploy\/planning.html",
       "oF" : 3
     },
@@ -956,9 +956,9 @@
       "cB" : 0,
       "ft" : 2048,
       "hM" : 0,
-      "oA" : 0,
+      "oA" : 1,
       "oAP" : "\/ZuccoH_Mobile_Tablet_Layout\/deploy\/search.html",
-      "oF" : 2
+      "oF" : 3
     },
     "\/ZuccoH_Mobile_Tablet_Layout\/dev\/content\/workspace.code-workspace" : {
       "cB" : 0,
@@ -972,7 +972,7 @@
       "cB" : 0,
       "ft" : 2048,
       "hM" : 0,
-      "oA" : 0,
+      "oA" : 1,
       "oAP" : "\/ZuccoH_Mobile_Tablet_Layout\/deploy\/footer.html",
       "oF" : 3
     },
@@ -980,7 +980,7 @@
       "cB" : 0,
       "ft" : 2048,
       "hM" : 0,
-      "oA" : 0,
+      "oA" : 1,
       "oAP" : "\/ZuccoH_Mobile_Tablet_Layout\/deploy\/head.html",
       "oF" : 3
     },
@@ -988,7 +988,7 @@
       "cB" : 0,
       "ft" : 2048,
       "hM" : 0,
-      "oA" : 0,
+      "oA" : 1,
       "oAP" : "\/ZuccoH_Mobile_Tablet_Layout\/deploy\/header.html",
       "oF" : 3
     },
@@ -996,7 +996,7 @@
       "cB" : 0,
       "ft" : 2048,
       "hM" : 0,
-      "oA" : 0,
+      "oA" : 1,
       "oAP" : "\/ZuccoH_Mobile_Tablet_Layout\/deploy\/scripts.html",
       "oF" : 3
     },
