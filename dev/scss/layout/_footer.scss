@@ -30,17 +30,55 @@ footer{
             @include md{
                 grid-area: f1;
             }
+            h1{
+                color: $alpine-frost;
+            }
+
+           section{
+               h2{
+                color: $alpine-frost;
+               }
+               Connecticut{
+                color: $alpine-frost-dark;
+               }
+           }
+
+           section{
+               h2{
+                color: $alpine-frost;
+               }
+               Massachusetts{
+                color: $alpine-frost-dark;
+               }
+           }
+           section{
+            h2{
+             color: $alpine-frost;
+            }
+            nova{
+             color: $alpine-frost-dark;
+            }
+        }
         }
 
         #f2{
             @include md{
                 grid-area: f2;
             }
+            h1{
+                color: $alpine-frost;
+            }
+            input{
+                color: $night-dark;
+            }
         }
 
         #f3{
             @include md{
                 grid-area: f3;
+            }
+            h1{
+                color: $alpine-frost;
             }
         }
     }

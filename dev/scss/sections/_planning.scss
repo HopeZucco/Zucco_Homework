@@ -2,6 +2,26 @@
     Planning
 ============= */
 #planning{
+
+    section{
+        leftbar{
+            background-color: $alpine-frost;
+        }
+        h1{
+            color: $black;
+        }
+    }
+    
+    section{
+        rightbar{
+            background-color: $alpine-frost;
+        }
+        h1{
+            color: $black;
+        }
+    }
+    
+
     display: grid;
     grid-template-columns: 16px auto 16px;
     grid-template-areas: ". planning .";
