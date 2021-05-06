@@ -6,9 +6,8 @@
         width: 100%;
     }
     section{
-        leftbar{
             background-color: $electric-glow-dark;
-        }
+
         h2{
             color: $night-dark;
         }
@@ -18,9 +17,7 @@
     }
     
     section{
-        rightbar{
             background-color: $electric-glow;
-        }
         p{
             color: $night-dark;
         }

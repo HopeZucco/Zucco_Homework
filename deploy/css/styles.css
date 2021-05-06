@@ -371,6 +371,7 @@ ul li {
     Buttons
 ============= */
 button {
+  background-color: #FFD205;
   cursor: pointer;
 }
 
@@ -399,6 +400,7 @@ textarea {
     Header
 ============= */
 header {
+  background-color: #2A3036;
   display: grid;
   grid-template-columns: 16px auto 16px;
   grid-template-areas: ". header .";
@@ -411,6 +413,7 @@ header > div {
     Footer
 ============= */
 footer {
+  background-color: #2A3036;
   display: grid;
   grid-template-columns: 16px auto 16px;
   grid-template-areas: ". footer .";
@@ -442,15 +445,39 @@ footer > div {
     grid-area: f1;
   }
 }
+footer > div #f1 h1 {
+  color: #E0DFD5;
+}
+footer > div #f1 section h2 {
+  color: #E0DFD5;
+}
+footer > div #f1 section address {
+  color: #C8C7BC;
+}
+footer > div #f1 section h2 {
+  color: #E0DFD5;
+}
+footer > div #f1 section h2 {
+  color: #E0DFD5;
+}
 @media (min-width: 768px) {
   footer > div #f2 {
     grid-area: f2;
   }
 }
+footer > div #f2 h1 {
+  color: #E0DFD5;
+}
+footer > div #f2 input {
+  color: #2A3036;
+}
 @media (min-width: 768px) {
   footer > div #f3 {
     grid-area: f3;
   }
+}
+footer > div #f3 h1 {
+  color: #E0DFD5;
 }
 
 /* =============
@@ -483,6 +510,24 @@ footer > div {
 #hero img {
   width: 100%;
 }
+#hero section {
+  background-color: #E2BA06;
+}
+#hero section h2 {
+  color: #2A3036;
+}
+#hero section p {
+  color: #2A3036;
+}
+#hero section {
+  background-color: #FFD205;
+}
+#hero section p {
+  color: #2A3036;
+}
+#hero section h5 {
+  color: #2A3036;
+}
 @media (min-width: 768px) {
   #hero section {
     display: grid;
@@ -509,6 +554,18 @@ footer > div {
   display: grid;
   grid-template-columns: 16px auto 16px;
   grid-template-areas: ". planning .";
+}
+#planning section {
+  background-color: #E0DFD5;
+}
+#planning section h1 {
+  color: #000;
+}
+#planning section {
+  background-color: #E0DFD5;
+}
+#planning section h1 {
+  color: #000;
 }
 @media (min-width: 1200px) {
   #planning {
@@ -591,6 +648,9 @@ footer > div {
     grid-area: new;
   }
 }
+#new > div h1 {
+  color: #637275;
+}
 @media (min-width: 768px) {
   #new > div ul {
     display: grid;
@@ -616,28 +676,73 @@ footer > div {
 #new > div ul li section > div {
   grid-area: new-content;
 }
+#new > div ul #n1 {
+  background-color: #F8F9FA;
+}
 @media (min-width: 768px) {
   #new > div ul #n1 {
     grid-area: n1;
   }
+}
+#new > div ul #n1 div h1 {
+  color: #000;
+}
+#new > div ul #n1 div p {
+  color: #000;
+}
+#new > div ul #n2 {
+  background-color: #F8F9FA;
 }
 @media (min-width: 768px) {
   #new > div ul #n2 {
     grid-area: n2;
   }
 }
+#new > div ul #n2 div h1 {
+  color: #000;
+}
+#new > div ul #n2 div p {
+  color: #000;
+}
+#new > div ul #n3 {
+  background-color: #F8F9FA;
+}
 @media (min-width: 768px) {
   #new > div ul #n3 {
     grid-area: n3;
   }
+}
+#new > div ul #n3 div h1 {
+  color: #000;
+}
+#new > div ul #n3 div p {
+  color: #000;
+}
+#new > div ul #n4 {
+  background-color: #F8F9FA;
 }
 @media (min-width: 768px) {
   #new > div ul #n4 {
     grid-area: n4;
   }
 }
+#new > div ul #n4 div h1 {
+  color: #000;
+}
+#new > div ul #n4 div p {
+  color: #000;
+}
+#new > div ul #n5 {
+  background-color: #F8F9FA;
+}
 @media (min-width: 768px) {
   #new > div ul #n5 {
     grid-area: n5;
   }
+}
+#new > div ul #n5 div h1 {
+  color: #000;
+}
+#new > div ul #n5 div p {
+  color: #000;
 }
